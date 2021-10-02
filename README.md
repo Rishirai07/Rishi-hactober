@@ -1,2 +1,2 @@
-# Rishi-hactober
+# Rishi-hacktober
 HACKTOBER 2021
